@@ -19,3 +19,8 @@ After completing these steps, the backend server will be running on the specifie
 Note
 
 Make sure you have Node.js version 16 or higher installed before running the project.
+
+
+    To log in, use
+    login: admin
+    password: admin
